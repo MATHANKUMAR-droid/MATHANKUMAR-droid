@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mathan Kumar 👋</h1>
 
 <p align="center">
-  <b>AI Developer · Data Analyst · Final-Year CSE Student</b><br/>
+  <b>AI Developer · Data Analyst · Final-Year AI & DS Student</b><br/>
   <i>Building intelligent systems. Turning data into decisions.</i>
 </p>
 
@@ -50,22 +50,9 @@ I'm a final-year Computer Science student passionate about AI, Machine Learning,
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MATHANKUMAR-droid&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MATHANKUMAR-droid&theme=tokyonight&hide_border=true&layout=compact" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MATHANKUMAR-droid&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ### Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/MATHANKUMAR-M)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathankumar-mk/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mathankumar.mdu7)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mathankumar.mm6@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MATHANKUMAR-droid)
